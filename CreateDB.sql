@@ -1,1 +1,0 @@
-CREATE DATABASE tennis_club;
